@@ -52,5 +52,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 Describe any challenges encountered while building the app.
 
 In order to use FileUtils.readLines and FileUtils.writeLines, "implementation 'commons-io:commons-io:2.4'" is needed. However, Android Studio automatically suggested "A newer version of commons-io:commons-io than 2.4 is available: 20030203.000550". Following the suggestion to change to 20030203.000550 would result in the lack of FileUtils.writeLines and FileUtils.readLines.
+
 I usually run into problems such as "Couldn't terminate the existing process for com.example.simpletodo." or being stuck at "Waiting for all target devices to come online", which can be dealt with by re-running the app or wiping the data of the virtual device. I do not think that this is an optimal solution.
+
 I am not familiar with Git, GitHub, and Git Bash.
